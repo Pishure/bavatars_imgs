@@ -1,0 +1,124 @@
+{
+    "error": false,
+    "data": [
+        {
+            "id": 001,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/001.png",
+            "gender": "male",
+            "age_range": "26-39",
+            "nature": "professional"
+        },
+        {
+            "id": 002,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/002.png",
+            "gender": "female",
+            "age_range": "18-25",
+            "nature": "casual"
+        },
+        {
+            "id": 003,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/003.png",
+            "gender": "female",
+            "age_range": "26-39",
+            "nature": "casual"
+        },
+        {
+            "id": 004,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/004.png",
+            "gender": "male",
+            "age_range": "26-29",
+            "nature": "casual"
+        },
+        {
+            "id": 005,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/005.png",
+            "gender": "female",
+            "age_range": "26-29",
+            "nature": "casual"
+        },
+        {
+            "id": 006,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/006.png",
+            "gender": "male",
+            "age_range": "26-29",
+            "nature": "professional"
+        },
+        {
+            "id": 007,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/007.png",
+            "gender": "male",
+            "age_range": "26-29",
+            "nature": "casual"
+        },
+        {
+            "id": 008,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/008.png",
+            "gender": "female",
+            "age_range": "26-29",
+            "nature": "casual"
+        },
+        {
+            "id": 009,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/009.png",
+            "gender": "male",
+            "age_range": "26-29",
+            "nature": "casual"
+        },
+        {
+            "id": 010,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/010.png",
+            "gender": "male",
+            "age_range": "26-29",
+            "nature": "casual"
+        },
+        {
+            "id": 011,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/011.png",
+            "gender": "male",
+            "age_range": "26-29",
+            "nature": "professional"
+        },
+        {
+            "id": 012,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/012.png",
+            "gender": "female",
+            "age_range": "26-29",
+            "nature": "professional"
+        },
+        {
+            "id": 013,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/013.png",
+            "gender": "male",
+            "age_range": "26-29",
+            "nature": "casual"
+        },
+        {
+            "id": 014,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/014.png",
+            "gender": "female",
+            "age_range": "26-29",
+            "nature": "professional"
+        },
+        {
+            "id": 015,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/015.png",
+            "gender": "male",
+            "age_range": "26-29",
+            "nature": "professional"
+        },
+        {
+            "id": 016,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/016.png",
+            "gender": "female",
+            "age_range": "26-29",
+            "nature": "professional"
+        },
+        {
+            "id": 017,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/017.png",
+            "gender": "male",
+            "age_range": "26-29",
+            "nature": "professional"
+        },
+    ]
+}
