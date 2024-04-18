@@ -119,6 +119,13 @@
             "gender": "male",
             "age_range": "26-29",
             "nature": "professional"
+        },
+        {
+            "id": 18,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/018.png",
+            "gender": "male",
+            "age_range": "26-29",
+            "nature": "professional"
         }
     ]
 }
