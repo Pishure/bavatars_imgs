@@ -124,7 +124,84 @@
             "id": 18,
             "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/018.png",
             "gender": "male",
+            "age_range": "18-25",
+            "nature": "casual"
+        },
+        {
+            "id": 19,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/019.png",
+            "gender": "female",
+            "age_range": "18-25",
+            "nature": "professional"
+        },
+        {
+            "id": 20,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/020.png",
+            "gender": "female",
+            "age_range": "18-25",
+            "nature": "casual"
+        },
+        {
+            "id": 21,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/021.png",
+            "gender": "male",
             "age_range": "26-29",
+            "nature": "casual"
+        },
+        {
+            "id": 22,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/022.png",
+            "gender": "male",
+            "age_range": "26-29",
+            "nature": "casual"
+        },
+        {
+            "id": 23,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/023.png",
+            "gender": "female",
+            "age_range": "18-25",
+            "nature": "casual"
+        },
+        {
+            "id": 24,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/024.png",
+            "gender": "male",
+            "age_range": "18-25",
+            "nature": "casual"
+        },
+        {
+            "id": 25,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/025.png",
+            "gender": "male",
+            "age_range": "26-29",
+            "nature": "professional"
+        },
+        {
+            "id": 26,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/026.png",
+            "gender": "male",
+            "age_range": "26-29",
+            "nature": "casual"
+        },
+        {
+            "id": 27,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/027.png",
+            "gender": "male",
+            "age_range": "26-29",
+            "nature": "casual"
+        },
+        {
+            "id": 28,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/028.png",
+            "gender": "female",
+            "age_range": "18-25",
+            "nature": "casual"
+        },
+        {
+            "id": 29,
+            "url": "https://raw.githubusercontent.com/Pishure/bavatars_imgs/main/029.png",
+            "gender": "male",
+            "age_range": "18-25",
             "nature": "professional"
         }
     ]
